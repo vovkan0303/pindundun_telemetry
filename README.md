@@ -5,7 +5,7 @@ My free telemetry for simtracing
 Моё первое крупное и полезное приложения для обычых пользователей, которые хотят бесплатной телеметрии в симуляторах!
 
 ## Фото приложения
-
+![]([image-2.png](https://disk.yandex.ru/i/Mtp3lmzIpXIt4A))
 ![alt text](image-2.png)
 ## Сама калибровка:
 ![alt text](image-3.png)
