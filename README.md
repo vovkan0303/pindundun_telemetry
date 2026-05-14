@@ -1,8 +1,10 @@
 # **Pindundun_telemetry**
 My free telemetry for simtracing
 
+[Видео инструкция](https://www.youtube.com/watch?v=3zajA5GIsGU)
+
 Всем привет!
-Моё первое крупное и полезное приложения для обычых пользователей, которые хотят бесплатной телеметрии в симуляторах!
+Моё первое крупное и полезное приложения для обычных пользователей, которые хотят бесплатной телеметрии в симуляторах!
 
 ## Фото приложения
 ![1](https://downloader.disk.yandex.ru/preview/2775e40c9974adb436a4542bf03313ec0b50c39049ab21f1d631741244afc4c2/6a050874/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
