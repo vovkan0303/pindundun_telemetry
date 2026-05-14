@@ -8,7 +8,7 @@ My free telemetry for simtracing
 
 ## Фото приложения
 ![1](https://downloader.disk.yandex.ru/preview/2775e40c9974adb436a4542bf03313ec0b50c39049ab21f1d631741244afc4c2/6a050874/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
-![2](https://downloader.disk.yandex.ru/preview/0b33711ed5252f14042b3fee15356f0b9bac9a974d10e8b67ec4cddf0ba6f607/6a05a2ce/25IjdYMMQ8chFukeWmG9N09ruAjrBIo5w7n9Pqn667GTZZyegMlegNn_Xh3aJpp2Vr8dEuDJ3cAq4SX_u9V_Jg%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![2](https://downloader.disk.yandex.ru/preview/2a31d8f2a1f88b5d79b6c4c602388e87b54b185fccdfef8bfbe389373cbff9c3/6a05e8b1/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
 ## Сама калибровка:
 ![3](https://downloader.disk.yandex.ru/preview/88c58da618976789426b55664f5076ad5220a06a1879ec295ac8ea85f392f087/6a0508cd/DVE2UDKXZ-ASVrF3SYLkcukfF95p_QUCYsvygV4IgifLAeaawBcfkB90FjOvnZE8YEk10tMplNjuGtbF1f02VA%3D%3D?uid=0&filename=image-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
 ![4](https://downloader.disk.yandex.ru/preview/c9b679c78954eada6902d00a39ad72418e13fb2dca9b95429d40b051733e85ce/6a0508fb/wqsVWiqCJFz8gfONGDsOhWk_jGWDSJyRGSZVjdrUyFc4fFBLfcsL1F11rSm-eU1-PXWNUzl1aJ6vMBh9O0ADSQ%3D%3D?uid=0&filename=image-4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
