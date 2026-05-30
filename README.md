@@ -52,6 +52,7 @@ ___
   - Assetto Corsa Competizione
   - Assetto Corsa Rally
   - Iracing (вроде как но пока у меня только с оконной рамкой в полноэкранном режиме нет)
+  - Automobilista 2
 
 ___
 
