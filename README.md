@@ -6,6 +6,8 @@ My free telemetry for simtracing
 Всем привет!
 Моё первое крупное и полезное приложения для обычных пользователей, которые хотят бесплатной телеметрии в симуляторах!
 
+Все ваши пожелания я реализую после ЕГЭ, примерно в конце июня будет обновление!!!
+
 ## Фото приложения
 ![1](https://downloader.disk.yandex.ru/preview/ed5dead3ab6be926a4e694eccee5f5df5d220825901a0e8978dd96adb9860148/6a1ae947/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
 ![2](https://downloader.disk.yandex.ru/preview/3254ac6656627cc5b814ca15db43aaf037ff179bbab0493b7758c6ebd5a6eb7a/6a1ae968/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
