@@ -7,11 +7,11 @@ My free telemetry for simtracing
 Моё первое крупное и полезное приложения для обычных пользователей, которые хотят бесплатной телеметрии в симуляторах!
 
 ## Фото приложения
-![1]([https://downloader.disk.yandex.ru/preview/2775e40c9974adb436a4542bf03313ec0b50c39049ab21f1d631741244afc4c2/6a050874/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048](https://disk.yandex.ru/i/Mtp3lmzIpXIt4A))
-![2](https://downloader.disk.yandex.ru/preview/2a31d8f2a1f88b5d79b6c4c602388e87b54b185fccdfef8bfbe389373cbff9c3/6a05e8b1/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![1](https://downloader.disk.yandex.ru/preview/ed5dead3ab6be926a4e694eccee5f5df5d220825901a0e8978dd96adb9860148/6a1ae947/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
+![2]([https://downloader.disk.yandex.ru/preview/2a31d8f2a1f88b5d79b6c4c602388e87b54b185fccdfef8bfbe389373cbff9c3/6a05e8b1/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048](https://downloader.disk.yandex.ru/preview/3254ac6656627cc5b814ca15db43aaf037ff179bbab0493b7758c6ebd5a6eb7a/6a1ae968/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048))
 ## Сама калибровка:
-![3](https://downloader.disk.yandex.ru/preview/88c58da618976789426b55664f5076ad5220a06a1879ec295ac8ea85f392f087/6a0508cd/DVE2UDKXZ-ASVrF3SYLkcukfF95p_QUCYsvygV4IgifLAeaawBcfkB90FjOvnZE8YEk10tMplNjuGtbF1f02VA%3D%3D?uid=0&filename=image-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
-![4](https://downloader.disk.yandex.ru/preview/c9b679c78954eada6902d00a39ad72418e13fb2dca9b95429d40b051733e85ce/6a0508fb/wqsVWiqCJFz8gfONGDsOhWk_jGWDSJyRGSZVjdrUyFc4fFBLfcsL1F11rSm-eU1-PXWNUzl1aJ6vMBh9O0ADSQ%3D%3D?uid=0&filename=image-4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![3](https://downloader.disk.yandex.ru/preview/c6de60827563f67a42838cf5650f4ac1d58ccae8c68f0dc88fed254a6143a448/6a1ae997/DVE2UDKXZ-ASVrF3SYLkcukfF95p_QUCYsvygV4IgifLAeaawBcfkB90FjOvnZE8YEk10tMplNjuGtbF1f02VA%3D%3D?uid=0&filename=image-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
+![4](https://downloader.disk.yandex.ru/preview/6d8479c9d95df9411d978d48d990dfb3d647248c3be494d90726f24e209034df/6a1ae9b0/wqsVWiqCJFz8gfONGDsOhWk_jGWDSJyRGSZVjdrUyFc4fFBLfcsL1F11rSm-eU1-PXWNUzl1aJ6vMBh9O0ADSQ%3D%3D?uid=0&filename=image-4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
 ___
 ## **Краткая инструкция**
 
@@ -31,7 +31,7 @@ ___
 - ⚙ - панель калибровки
 
 ## Также после калибровки будет созданы 2 файла для корректной работы приложения
-![5](https://downloader.disk.yandex.ru/preview/fd38ddaa21f1338eee2ef4859d0d70a862868587d1b9b5ebb5a62d5b82ff1f48/6a050918/ysu_4oDfz6VvlCe-TiEQCUZxM6GsRs_n-arkixPqfzcvENAXn9PvY_BZOVvV8rFlWFUNrwqRbRyb16RPekGdhA%3D%3D?uid=0&filename=image-5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
+![5](https://downloader.disk.yandex.ru/preview/0a478b2d4291e2dc42dae4477fdb3cb60f88ca0c46565dd6ef30ed34654153cf/6a1ae9cb/ysu_4oDfz6VvlCe-TiEQCUZxM6GsRs_n-arkixPqfzcvENAXn9PvY_BZOVvV8rFlWFUNrwqRbRyb16RPekGdhA%3D%3D?uid=0&filename=image-5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
 - **data.txt** - нужен для обратной связи если что-то сломается то там будет всё
 - **pedal_calibration.json** нужен, чтобы каждый раз не калибровать педали
 - **kalibrovka.txt** - появляется при ошибке в калибровке, попробуйте, либо ещё раз откалибровать, либо написать в обратной связи, что случилось
