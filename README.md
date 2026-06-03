@@ -9,7 +9,7 @@ My free telemetry for simtracing
 Все ваши пожелания я реализую после ЕГЭ, примерно в конце июня будет обновление!!!
 
 ## Фото приложения
-![1](https://disk.yandex.ru/i/Mtp3lmzIpXIt4A)
+![1]([https://disk.yandex.ru/i/Mtp3lmzIpXIt4A](https://github.com/vovkan0303/screen/blob/main/image-1.png))
 ![2](https://disk.yandex.ru/i/cg7tQeNTYgGRqg)
 ## Сама калибровка:
 ![3](https://disk.yandex.ru/i/7xBleGsW2TA20A)
