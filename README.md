@@ -9,11 +9,11 @@ My free telemetry for simtracing
 Все ваши пожелания я реализую после ЕГЭ, примерно в конце июня будет обновление!!!
 
 ## Фото приложения
-![1]([https://disk.yandex.ru/i/Mtp3lmzIpXIt4A](https://github.com/vovkan0303/screen/blob/main/image-1.png))
-![2](https://disk.yandex.ru/i/cg7tQeNTYgGRqg)
+![1](https://github.com/vovkan0303/screen/blob/main/image-1.png)
+![2](https://github.com/vovkan0303/screen/blob/main/image-2.png)
 ## Сама калибровка:
-![3](https://disk.yandex.ru/i/7xBleGsW2TA20A)
-![4](https://disk.yandex.ru/i/FfUS63QQnDk1bw)
+![3](https://github.com/vovkan0303/screen/blob/main/image-3.png)
+![4](https://github.com/vovkan0303/screen/blob/main/image-4.png)
 ___
 ## **Краткая инструкция**
 
@@ -33,7 +33,7 @@ ___
 - ⚙ - панель калибровки
 
 ## Также после калибровки будет созданы 2 файла для корректной работы приложения
-![5](https://disk.yandex.ru/i/vOe1u_YbZAHdbQ)
+![5](https://github.com/vovkan0303/screen/blob/main/image-5.png)
 - **data.txt** - нужен для обратной связи если что-то сломается то там будет всё
 - **pedal_calibration.json** нужен, чтобы каждый раз не калибровать педали
 - **kalibrovka.txt** - появляется при ошибке в калибровке, попробуйте, либо ещё раз откалибровать, либо написать в обратной связи, что случилось
