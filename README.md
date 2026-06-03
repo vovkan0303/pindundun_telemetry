@@ -9,11 +9,11 @@ My free telemetry for simtracing
 Все ваши пожелания я реализую после ЕГЭ, примерно в конце июня будет обновление!!!
 
 ## Фото приложения
-![1](https://downloader.disk.yandex.ru/preview/ed5dead3ab6be926a4e694eccee5f5df5d220825901a0e8978dd96adb9860148/6a1ae947/-L6owNu2DXzZ4G03JcuybCXfjVkUcGTLblvvQDjneRWNbcAPmoH6zXsaAYXqN9xsdxNfkuBuSZiKx40x5yAOuQ%3D%3D?uid=0&filename=image-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
-![2](https://downloader.disk.yandex.ru/preview/3254ac6656627cc5b814ca15db43aaf037ff179bbab0493b7758c6ebd5a6eb7a/6a1ae968/3G0owfddIfWT_AxwLHpZrhJ6UQQz7gCb7o9TiShyAcJAo8hnKpjtZz7P2_6E078gDmFpY25jwMoX50b-IuNI7Q%3D%3D?uid=0&filename=image-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
+![1](https://disk.yandex.ru/i/Mtp3lmzIpXIt4A)
+![2](https://disk.yandex.ru/i/cg7tQeNTYgGRqg)
 ## Сама калибровка:
-![3](https://downloader.disk.yandex.ru/preview/c6de60827563f67a42838cf5650f4ac1d58ccae8c68f0dc88fed254a6143a448/6a1ae997/DVE2UDKXZ-ASVrF3SYLkcukfF95p_QUCYsvygV4IgifLAeaawBcfkB90FjOvnZE8YEk10tMplNjuGtbF1f02VA%3D%3D?uid=0&filename=image-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
-![4](https://downloader.disk.yandex.ru/preview/6d8479c9d95df9411d978d48d990dfb3d647248c3be494d90726f24e209034df/6a1ae9b0/wqsVWiqCJFz8gfONGDsOhWk_jGWDSJyRGSZVjdrUyFc4fFBLfcsL1F11rSm-eU1-PXWNUzl1aJ6vMBh9O0ADSQ%3D%3D?uid=0&filename=image-4.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
+![3](https://disk.yandex.ru/i/7xBleGsW2TA20A)
+![4](https://disk.yandex.ru/i/FfUS63QQnDk1bw)
 ___
 ## **Краткая инструкция**
 
@@ -33,7 +33,7 @@ ___
 - ⚙ - панель калибровки
 
 ## Также после калибровки будет созданы 2 файла для корректной работы приложения
-![5](https://downloader.disk.yandex.ru/preview/0a478b2d4291e2dc42dae4477fdb3cb60f88ca0c46565dd6ef30ed34654153cf/6a1ae9cb/ysu_4oDfz6VvlCe-TiEQCUZxM6GsRs_n-arkixPqfzcvENAXn9PvY_BZOVvV8rFlWFUNrwqRbRyb16RPekGdhA%3D%3D?uid=0&filename=image-5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&is_direct_zip_experiment=1&size=2048x2048)
+![5](https://disk.yandex.ru/i/vOe1u_YbZAHdbQ)
 - **data.txt** - нужен для обратной связи если что-то сломается то там будет всё
 - **pedal_calibration.json** нужен, чтобы каждый раз не калибровать педали
 - **kalibrovka.txt** - появляется при ошибке в калибровке, попробуйте, либо ещё раз откалибровать, либо написать в обратной связи, что случилось
