@@ -1,5 +1,15 @@
 # **Pindundun_telemetry**
 My free telemetry for simtracing
+#
+# Актуальная версия - 2
+
+
+# Нововведения версии 2: 
+
+- Кнопка калибровки смещена влево
+- Программа запоминает размер окна
+
+#
 
 [Видео инструкция](https://www.youtube.com/watch?v=3zajA5GIsGU)
 
